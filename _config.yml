@@ -95,27 +95,13 @@ content:
         quote: >
           From-scratch U-Net-inspired model compared with MobileNetV2 and DeepLab via transfer learning.
         description: |
-          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="CamVid project image">
+          <img class="proj-avatar" src="/images/camvid.png" alt="CamVid project image">
           End-to-end training & evaluation pipeline for pixel-wise segmentation on **CamVid** with
           experiments against transfer-learned baselines.
 
       - layout: top-middle
-        title: Reinforcement Learning Snake
-        link: https://github.com/SergioV3005/snake-reinforcement-learning
-        additional_links:
-          - title: GitHub Repo
-            icon: fab fa-github
-            url: https://github.com/SergioV3005/snake-reinforcement-learning
-        quote: >
-          A simple agent that learns to play classic Snake via Q-learning.
-        description: |
-          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="Snake RL project image">
-          Toy environment + Q-learning implementation for experimentation with state representation,
-          reward shaping, and exploration strategies.
-
-      - layout: top-middle
         title: Automatic KPI Interpretation (KNIME + GenAI)
-        link: https://hub.knime.com/knime/spaces/AI%20Extension%20Example%20Workflows/5%20Use%20Cases/Explain%20KPI%20report%20with%20multimodal%20LLMs~_HVjLdQa2xnChoyO/current-state
+        link: https://hub.knime.com/workflow
         additional_links:
           - title: KNIME Hub
             icon: fas fa-external-link-alt
@@ -123,7 +109,7 @@ content:
         quote: >
           Interpreting business KPI dashboards with multimodal LLMs inside KNIME.
         description: |
-          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="KNIME KPI project image">
+          <img class="proj-avatar" src="/images/kpis.png" alt="KNIME KPI project image">
           Workflow that explains metrics, highlights anomalies, and provides natural-language insights
           for dashboards.
 
