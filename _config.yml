@@ -54,7 +54,7 @@ additional_links:
 # ----------------------------
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # supports Markdown
+about_content: | 
   Hi, I’m **Sergio Verga** – a Data Science Master's student (and external research collaborator) with a background in **Physics (Microelectronics)**.  
   I’m currently working on my thesis in **Reinforcement Learning for Robotics** at the **University of Milano-Bicocca** and doing research at the [**Intelligent Sensing Lab (ISLab)**](https://islab.disco.unimib.it/).
 
@@ -66,7 +66,6 @@ about_content: | # supports Markdown
 # Main content sections
 # ----------------------------
 content:
-
   - title: Projects
     layout: list
     content:
@@ -81,6 +80,7 @@ content:
         quote: >
           Multimodal agents for robotic pick-and-place following prompt-specified features.
         description: |
+          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="VLA project image">
           Research exploring VLA pipelines for robotic manipulation using the **Hugging Face LeRobot** framework.
           Part of my **Master’s thesis** and ongoing research at **ISLab**.  
           *Repositories currently private.*
@@ -95,6 +95,7 @@ content:
         quote: >
           From-scratch U-Net-inspired model compared with MobileNetV2 and DeepLab via transfer learning.
         description: |
+          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="CamVid project image">
           End-to-end training & evaluation pipeline for pixel-wise segmentation on **CamVid** with
           experiments against transfer-learned baselines.
 
@@ -108,12 +109,13 @@ content:
         quote: >
           A simple agent that learns to play classic Snake via Q-learning.
         description: |
+          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="Snake RL project image">
           Toy environment + Q-learning implementation for experimentation with state representation,
           reward shaping, and exploration strategies.
 
       - layout: top-middle
         title: Automatic KPI Interpretation (KNIME + GenAI)
-        link: https://hub.knime.com/workflow
+        link: https://hub.knime.com/knime/spaces/AI%20Extension%20Example%20Workflows/5%20Use%20Cases/Explain%20KPI%20report%20with%20multimodal%20LLMs~_HVjLdQa2xnChoyO/current-state
         additional_links:
           - title: KNIME Hub
             icon: fas fa-external-link-alt
@@ -121,7 +123,9 @@ content:
         quote: >
           Interpreting business KPI dashboards with multimodal LLMs inside KNIME.
         description: |
-          Workflow that parses a KPI report image and textual content, processes the graphs to prepare a new report with the interpretation and recommendations for improvement.
+          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="KNIME KPI project image">
+          Workflow that explains metrics, highlights anomalies, and provides natural-language insights
+          for dashboards.
 
   - title: Experience
     layout: list

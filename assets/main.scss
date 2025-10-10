@@ -2,4 +2,25 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-@import 'modern-resume-theme';
+@import "modern-resume-theme";
+
+/* Circular thumbnail for project items */
+.proj-avatar {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  object-fit: cover;
+  /* Put it on the right side for a tidy look on all item layouts */
+  float: right;
+  margin: 0 0 8px 16px; /* space from text */
+  /* Prevent layout jiggle if image loads late */
+  background: #e9e9e9;
+}
+@media (max-width: 520px) {
+  .proj-avatar {
+    float: none;
+    display: block;
+    margin: 0 auto 10px;
+  }
+}
+
