@@ -80,7 +80,7 @@ content:
         quote: >
           Multimodal agents for robotic pick-and-place following prompt-specified features.
         description: |
-          <img class="proj-avatar" src="/images/projects/placeholder.jpg" alt="VLA project image">
+          <img class="proj-avatar" src="/images/lerobot.jpg" alt="VLA project image">
           Research exploring VLA pipelines for robotic manipulation using the **Hugging Face LeRobot** framework.
           Part of my **Master’s thesis** and ongoing research at **ISLab**.  
           *Repositories currently private.*
