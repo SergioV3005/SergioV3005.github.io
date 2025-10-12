@@ -144,11 +144,11 @@ content:
           Coursework and research spanning **Reinforcement Learning**, **Deep Learning**, and **NLP**.
 
       - layout: left
-        title: Physics (Microelectronics)
-        sub_title: Background in Physics
+        title: University of Milano-Bicocca
+        sub_title: BSc in Physics
         caption:  October 2019 - February 2023
         description: |
-          Foundations in microelectronics and applied physics. Name of the Bachelor's thesis:
+          Specialization in **Microelectronics**. Name of the Bachelor's thesis:
           "Matlab Modeling and Simulation of a Chopper Preamplifier for Proton Sound Detectors"
 
   - title: Publications & Blog Posts
