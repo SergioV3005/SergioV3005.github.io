@@ -32,15 +32,9 @@ linkedin_username: sergio-verga-5b071b2b6
 # Additional icon links (show as icons under the header)
 # ----------------------------
 additional_links:
-  - title: ISLab (Intelligent Sensing Lab)
-    icon: fas fa-university
-    url: https://islab.disco.unimib.it/
   - title: Hugging Face – LeRobot
     icon: fas fa-robot
-    url: https://huggingface.co/lerobot
-  - title: KNIME Hub (KPI workflow)
-    icon: fas fa-project-diagram
-    url: https://hub.knime.com/knime/spaces/AI%20Extension%20Example%20Workflows/5%20Use%20Cases/Explain%20KPI%20report%20with%20multimodal%20LLMs~_HVjLdQa2xnChoyO/current-state
+    url: https://huggingface.co/sergiov2000
   - title: Medium
     icon: fab fa-medium
     url: https://medium.com/@sergiov3005
