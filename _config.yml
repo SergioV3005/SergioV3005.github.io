@@ -32,10 +32,10 @@ linkedin_username: sergio-verga-5b071b2b6
 # Additional icon links (show as icons under the header)
 # ----------------------------
 additional_links:
-  - title: Hugging Face – LeRobot
+  - title: Hugging Face link
     icon: fas fa-robot
     url: https://huggingface.co/sergiov2000
-  - title: Medium
+  - title: Medium link
     icon: fab fa-medium
     url: https://medium.com/@sergiov3005
 
