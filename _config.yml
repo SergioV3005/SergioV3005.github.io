@@ -41,6 +41,9 @@ additional_links:
   - title: KNIME Hub (KPI workflow)
     icon: fas fa-project-diagram
     url: https://hub.knime.com/knime/spaces/AI%20Extension%20Example%20Workflows/5%20Use%20Cases/Explain%20KPI%20report%20with%20multimodal%20LLMs~_HVjLdQa2xnChoyO/current-state
+  - title: Medium
+    icon: fab fa-medium
+    url: https://medium.com/@sergiov3005
 
 # ----------------------------
 # Analytics (optional)
