@@ -11,7 +11,7 @@ version: 2
 # Personal info
 # ----------------------------
 name: Sergio Verga
-title: Data Science MSc Student & Research Collaborator
+title: MSc Data Science | BSc Physics
 email: sergioverga3005@gmail.com
 website: https://sergiov3005.github.io
 
@@ -52,10 +52,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hi, I’m **Sergio Verga** – a Data Science Master's student (and external research collaborator) with a background in **Physics (Microelectronics)**.  
-  I’m currently working on my thesis in **Reinforcement Learning for Robotics** at the **University of Milano-Bicocca** and doing research at the [**Intelligent Sensing Lab (ISLab)**](https://islab.disco.unimib.it/).
-
+  Hi, I’m **Sergio Verga** – a ML/AI Engineer with a background in **Data Science** (MSc) and in **Physics** (BSc). I have worked in the University of Milan-Bicocca as an external research collaborator at the [**Intelligent Sensing Lab (ISLab)**](https://islab.disco.unimib.it/), in the research band Cod 25CE114.
+  
   My main interests include **Reinforcement Learning (for Robotics)**, **Deep Learning**, and **Natural Language Processing**. I’m passionate about bridging cutting-edge AI with real-world applications in automation, robotics, and intelligent systems.
+  
+  Below, you can find some details about my projects (with the possibility of finding more in my Github), my education and some publications. 
 
   **Tech stack:** Python · PyTorch · TensorFlow · Hugging Face · Jupyter · KNIME · Git
 
